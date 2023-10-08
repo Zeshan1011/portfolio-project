@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.496706a0.css",
+    "main.js": "/static/js/main.c5fa0e02.js",
+    "static/js/787.5d8e2224.chunk.js": "/static/js/787.5d8e2224.chunk.js",
+    "static/media/Travelling beaches.png": "/static/media/Travelling beaches.4807182e5797542d4bee.png",
+    "static/media/contactSection.png": "/static/media/contactSection.463ebd28c3b1dcef3cae.png",
+    "static/media/microsoft-clone.png": "/static/media/microsoft-clone.22f700621c747bfb9884.png",
+    "static/media/Hot-n-Spicy.png": "/static/media/Hot-n-Spicy.90fd664c576608b8e4c3.png",
+    "static/media/pngwing.com (6).png": "/static/media/pngwing.com (6).f8f2e9166c2838f7a4a7.png",
+    "static/media/IT-center.png": "/static/media/IT-center.548b36e1d0863117a426.png",
+    "static/media/facebook clone.png": "/static/media/facebook clone.d8a423dc7f45ff84c3e6.png",
+    "static/media/password-generator.png": "/static/media/password-generator.e37da665adb512048288.png",
+    "static/media/calculator.png": "/static/media/calculator.2be9cf466aab01f4bc7d.png",
+    "index.html": "/index.html",
+    "main.496706a0.css.map": "/static/css/main.496706a0.css.map",
+    "main.c5fa0e02.js.map": "/static/js/main.c5fa0e02.js.map",
+    "787.5d8e2224.chunk.js.map": "/static/js/787.5d8e2224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496706a0.css",
+    "static/js/main.c5fa0e02.js"
+  ]
+}
